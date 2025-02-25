@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Dmytro 👋<br>I'm a web developer passionate about building fast, scalable, and user-friendly applications. My main stack:<br><br>🚀 Frontend: React, Redux, TypeScript, JavaScript<br>⚡ Backend: Node.js, Express<br>🎨 Styling: CSS, Sass, SCSS<br>💡 Always learning and improving<br><br>📫 Feel free to reach out and connect!<br><br>
+Hi there! I'm Dmytro 👋<br>I'm a web developer passionate about building fast, scalable, and user-friendly applications.
 
 
 ## 🌐 Socials:
